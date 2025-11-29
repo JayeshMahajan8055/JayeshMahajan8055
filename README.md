@@ -65,11 +65,12 @@
   </tr>
 
   <tr>
-    <td><strong>⚖ Smart Legal Assistant – RAG Chatbot</strong></td>
-    <td>Context-aware chatbot for legal document search, summarization, and interpretation using RAG + vector retrieval.</td>
-    <td>LangChain, OpenAI, FAISS, Flask</td>
-    <td><a href="#" target="_blank">https://github.com/JayeshMahajan8055/Lawglance</a></td>
-  </tr>
+  <td><strong>⚖ Smart Legal Assistant – RAG Chatbot</strong></td>
+  <td>Context-aware chatbot for legal document search, summarization, and interpretation using RAG + vector retrieval.</td>
+  <td>LangChain, OpenAI, ChromaDB (or FAISS), Python</td>
+  <td><a href="https://github.com/JayeshMahajan8055/Lawglance" target="_blank">🔗 View Project</a></td>
+</tr>
+
 
   <tr>
     <td><strong>📊 Bank Marketing Campaign Classifier</strong></td>
