@@ -65,41 +65,39 @@
   </tr>
 
   <tr>
-  <td><strong>⚖ Smart Legal Assistant – RAG Chatbot</strong></td>
-  <td>Context-aware chatbot for legal document search, summarization, and interpretation using RAG + vector retrieval.</td>
-  <td>LangChain, OpenAI, ChromaDB (or FAISS), Python</td>
-  <td><a href="https://github.com/JayeshMahajan8055/Lawglance" target="_blank">🔗 View Project</a></td>
-</tr>
-
-
-  <tr>
-    <td><strong>📊 Bank Marketing Campaign Classifier</strong></td>
-    <td>Predicts customer responses to marketing campaigns using ML models with full EDA + automated workflow.</td>
-    <td>Python, Pandas, Scikit-learn, Matplotlib</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><strong>⚖ Smart Legal Assistant – RAG Chatbot</strong></td>
+    <td>Context-aware chatbot for legal document search, summarization, and interpretation using RAG + vector retrieval.</td>
+    <td>LangChain, OpenAI, ChromaDB, Python</td>
+    <td><a href="https://github.com/JayeshMahajan8055/Lawglance" target="_blank">🔗 View Project</a></td>
   </tr>
 
   <tr>
-    <td><strong>🎬 StoryTails – AI Text-to-Video Generator</strong></td>
-    <td>Transforms stories into animated videos using LLM-driven scene extraction + diffusion-based video generation.</td>
-    <td>Llama 3, SDXL, SVD, XTTS, Streamlit, FFmpeg</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><strong>📊 Bank Marketing Campaign Classifier</strong></td>
+    <td>Predicts customer responses to term-deposit marketing campaigns using ML classification with full end-to-end EDA.</td>
+    <td>Python, Pandas, Scikit-learn, Matplotlib</td>
+    <td><a href="https://github.com/JayeshMahajan8055/Bank_Marketing_Term_Deposit_prediction" target="_blank">🔗 View Project</a></td>
   </tr>
 
   <tr>
     <td><strong>📝 Text Summarization Pipeline</strong></td>
-    <td>Hybrid extractive + abstractive summarization using BERT/T5 + custom NLP pipeline.</td>
-    <td>spaCy, NLTK, BERT, T5, Flask</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td>Hybrid extractive + abstractive summarization system using BERT/T5 with Flask-based UI and NLP preprocessing.</td>
+    <td>spaCy, NLTK, BERT, T5, Flask, Python</td>
+    <td><a href="https://github.com/JayeshMahajan8055/Text_Summarization_Tool_-NLP-" target="_blank">🔗 View Project</a></td>
   </tr>
 
   <tr>
     <td><strong>🚗 Number Plate Detection System</strong></td>
-    <td>Real-time vehicle number plate detection using YOLOv8 + OCR + regex extraction pipeline.</td>
+    <td>Real-time number plate detection using YOLOv8 with OCR-based text extraction and regex validation.</td>
     <td>YOLOv8, OpenCV, EasyOCR, Python</td>
-    <td><a href="#" target="_blank">🔗 Link</a></td>
+    <td><a href="https://github.com/JayeshMahajan8055/Number_Plate_Detection-" target="_blank">🔗 View Project</a></td>
   </tr>
-</table>
+
+  <tr>
+    <td><strong>🎬 StoryTails – AI Text-to-Video Generator</strong></td>
+    <td>Transforms written stories into animated video using LLM scene extraction and diffusion-based video generation.</td>
+    <td>Llama 3, SDXL, SVD, XTTS, Streamlit, FFmpeg</td>
+    <td><a href="#" target="_blank">🔗 Coming Soon</a></td>
+  </tr>
 
 ---
 
