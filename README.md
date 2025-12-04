@@ -60,11 +60,7 @@
   <td><strong>🤖 Agentic AI (Multimodal)</strong></td>
   <td><strong>MIRA – Multimodal Intelligent Reasoning Agent</strong></td>
   <td>
-    End-to-end agentic system that accepts text, images, PDFs, and audio inputs,
-    performs OCR, transcription, and content extraction, classifies user intent using
-    local LLMs (Ollama), asks follow-up clarification questions, and autonomously
-    executes tasks such as summarization, sentiment analysis, code explanation,
-    YouTube transcript fetching, and Q&A using an intelligent task router.
+    An autonomous multimodal AI agent that extracts content, detects intent, and executes tasks intelligently across text, images, PDFs, and audio.
   </td>
   <td>
     FastAPI, Python, Tesseract OCR, PyPDF2, pdf2image, Whisper STT, LangChain,
